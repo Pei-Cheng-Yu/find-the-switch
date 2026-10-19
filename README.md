@@ -2,6 +2,8 @@
 
 燈，是誰關的？
 
+[▶ 開始遊戲](https://pei-cheng-yu.github.io/find-the-switch/)
+
 繁體中文 2D 懸疑點擊探索遊戲。黑暗、手電筒、貓咪，以及看似熟悉的家。
 
 ## 遊玩
